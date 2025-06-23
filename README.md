@@ -2,6 +2,11 @@
 
 This repository contains the schematic and PCB design files for the Arduino Nano, created using Altium Designer. The project includes both the hardware design and the necessary components for building the Arduino Nano from scratch.
 
+### 📽️ Project Demo 
+click here 👇
+
+[![Watch on YouTube](https://img.youtube.com/vi/eV60IgspMpo/hqdefault.jpg)](https://www.youtube.com/watch?v=eV60IgspMpo)
+
 ## Project Overview
 
 The goal of this project is to design a custom Arduino Nano board using Altium Designer. It covers the following aspects:
